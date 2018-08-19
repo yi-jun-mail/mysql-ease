@@ -1,1 +1,1 @@
-test2 added initially to a detached branch merged resolved with testbranch3
+test2 changed 
