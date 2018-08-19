@@ -1,1 +1,1 @@
-ws and ws-1 merged: hotfix 1 xxx index file
+ws changed it after merge: ws and ws-1 merged: hotfix 1 xxx index file
